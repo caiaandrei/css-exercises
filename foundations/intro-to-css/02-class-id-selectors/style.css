@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.even-element {
+  background: rgb(240, 173, 183);
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#second-element {
+  color: rgb(47, 47, 230);
+  font-size: 36px;
+}
+
+.third-element {
+  font-size: 24px;
+}
+
+#fourth-elemnt {
+  background-color: rgb(107, 214, 132);
+  font-weight: bold;
+}
